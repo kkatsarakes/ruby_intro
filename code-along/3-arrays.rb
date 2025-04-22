@@ -3,6 +3,13 @@
 # ruby 3-arrays.rb
 
 # Arrays are lists of things
+foods = ["tacos", "pizza", "ice cream"]
+p foods 
+
+numbers = [4,8,15,16,23,42]
+p numbers
+
+mixed_stuff = ["tacos", 3, true]
 
 # Accessing the array
 
